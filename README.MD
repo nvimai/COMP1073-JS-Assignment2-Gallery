@@ -4,13 +4,13 @@ Using the provided HTML, CSS, and JavaScript as a starting point, build a simple
 that features a collection of thumbnail images that can be clicked on for a full-sized version.
 ### Works
 1. Build the JavaScript required to enable a user to click on a thumbnail image and view
-the full-sized version inside the <figure> element above.
+the full-sized version inside the `<figure>` element above.
 2. Once you’ve completed the functionality of the interface, add some CSS to make the
 page visually attractive.
-3. Dynamically build the <ul> thumbnail list from an array of images so that the image
+3. Dynamically build the `<ul>` thumbnail list from an array of images so that the image
 gallery can handle any number of thumbnail images (rather than the five provided).
 4. Capture some interesting information about each image, and output the text to the
-<figcaption> element.
+`<figcaption>` element.
 5. Use a CSS filter to make inactive thumbnail images render in grayscale, and the current
 image in full colour.
 6. Try to use a JavaScript Object for each gallery item to power the application.
