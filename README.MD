@@ -1,7 +1,9 @@
 # ASSIGNMENT 2 - Photo Gallery
 ## 200385752 - Nhat Mai (Nvi) - COMP1073 – Client-Side JavaScript
+
 Using the provided HTML, CSS, and JavaScript as a starting point, build a simple image gallery
 that features a collection of thumbnail images that can be clicked on for a full-sized version.
+
 ### Works
 1. Build the JavaScript required to enable a user to click on a thumbnail image and view
 the full-sized version inside the `<figure>` element above.
@@ -17,3 +19,7 @@ image in full colour.
 7. Build the next and previous buttons.
 8. Build the rollable thumbnails at the bottom of the slider.
 9. The slide runs automatically.
+
+### License
+Copyright © 2019, [Nvi Mai](https://www.nvimai.com).
+Released under the [MIT License](LICENSE).
